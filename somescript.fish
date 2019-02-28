@@ -1,6 +1,6 @@
 #!/usr/bin/fish
 
 clear
-echo *********
+echo "*********"
 ls *
-echo *********
+echo "*********"
